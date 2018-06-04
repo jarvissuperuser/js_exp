@@ -46,4 +46,4 @@ function solution(S,L){
 
 let string = process.argv.splice(2)[0];
 
-solution(string,6);
+solution(string,10);
